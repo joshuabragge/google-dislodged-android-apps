@@ -3,7 +3,7 @@
 # apktool version v2.3.4
 # uber-apk-signer v0.84
 # encrypt
-# echo "const\/4 v0, 0x1" | openssl enc -aes-256-cbc -a 
+# echo "string" | openssl enc -aes-256-cbc -a 
 # decrypt
 # echo "encrypted_string" | openssl enc -aes-256-cbc -d -a
 

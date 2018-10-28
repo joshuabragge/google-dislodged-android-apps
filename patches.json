@@ -1,0 +1,15 @@
+applications = {
+	"daily_strength": {
+		"target_files":["U2FsdGVkX18WelSpWRjNPtmLDWP4CGha/bgDBgG0J03pudufbDd2qvmER+vQO6kLOx2x+oFN2SoLCXnbvuwMaha2fUicIpvXnFcNg/IMIiWgxfeqVS5JS/N9EOqT8mcu4WEVwmeSitYKjoqBecGHXQ=="],
+		"target_code":["U2FsdGVkX19xArP2AKUzXqj1zzwQLvcZK8TA9Tw9XsgbDsNFQHUJzSV7eAVR2PCV"],
+		"target_patch":["U2FsdGVkX18UbduCnp1mtGPOfoU896OHArM4TyMpvL7/q7LQdbMY/FP5CnssZGBv"]
+	},
+	"memento": {
+		"target_files":["U2FsdGVkX18RA6CjHu+VBv+2vgjtBGbIgvxuIje9MjLvJs5tou6VtfjBlCIVyoyXlcHQUC9MoGr9FDOjt6ZH0aWyc8K6F87m5OmZedT6dbhY3o7FkdiP+v5ybBWlMbxaS0XBrPjBZApMWu/OMcenhucCspB5r6fXwazDyT2bdBI="],
+		"target_code":["U2FsdGVkX1+RxXSc/OeQXTw/mESSqpkOuwyD12+E+oeJSxTBY+ALvzaiIuItInok"],
+		"target_patch":["U2FsdGVkX1/sM8twHWgaC2z/7TsJb1yYjnxvcF/YzVNPbYusSoxwKF7UZSzeQrE/"]
+	},
+	"daylio": {
+
+	}
+}
